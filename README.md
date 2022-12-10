@@ -3,7 +3,7 @@
 <p align="center">
     <a href="#">Website</a> •
     <a href="https://github.com/hkyksk/hkyksk">README</a> •
-    <a href="https://twitter.com/hkyksk">Twitter</a> •
+    <a href="https://twitter.com/hikodefi">Twitter</a> •
     <a href="https://dev.to/hkyksk">Dev.to</a>
 </p>
 
